@@ -1,0 +1,25 @@
+Species,Color,Length (mm),less17,less20
+Mobug,Brown,11.6,TRUE,TRUE
+Mobug,Blue,16.3,TRUE,TRUE
+Lobug,Blue,15.1,TRUE,TRUE
+Lobug,Green,23.7,FALSE,FALSE
+Lobug,Blue,18.4,FALSE,TRUE
+Lobug,Brown,17.1,FALSE,TRUE
+Mobug,Brown,15.7,TRUE,TRUE
+Lobug,Green,18.6,FALSE,TRUE
+Lobug,Blue,22.9,FALSE,FALSE
+Lobug,Blue,21,FALSE,FALSE
+Lobug,Blue,20.5,FALSE,FALSE
+Mobug,Green,21.2,FALSE,FALSE
+Mobug,Brown,13.8,TRUE,TRUE
+Lobug,Blue,14.5,TRUE,TRUE
+Lobug,Green,24.8,FALSE,FALSE
+Mobug,Brown,18.2,FALSE,TRUE
+Lobug,Green,17.9,FALSE,TRUE
+Lobug,Green,22.7,FALSE,FALSE
+Mobug,Green,19.9,FALSE,TRUE
+Mobug,Blue,14.6,TRUE,TRUE
+Mobug,Blue,19.2,FALSE,TRUE
+Lobug,Brown,14.1,TRUE,TRUE
+Lobug,Green,18.8,FALSE,TRUE
+Mobug,Blue,13.1,TRUE,TRUE
